@@ -1,6 +1,10 @@
 # XPCA_Application_exe
 File containing the XPCA MATLAB application executable file
 
+Please download the "MATLAB runtime" to run the executable file on your PC
+
+XPCA.exe is the XPCA application executable file
+
 Dynnamic_data_noisy_order_5 data is for the dynamic case for model of order 5
 
 Static_data for the Static case
